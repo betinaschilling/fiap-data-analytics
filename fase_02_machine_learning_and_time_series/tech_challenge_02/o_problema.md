@@ -21,7 +21,6 @@ Para isso, siga os passos abaixo:
 
 - `data/`: Diretório para armazenar os dados coletados do site da Investing.
 - `notebooks/`: Jupyter Notebooks com o processo de exploração, análise e modelagem dos dados.
-- `scripts/`: Scripts Python para limpeza dos dados, construção e avaliação do modelo.
 - `models/`: Diretório para salvar os modelos treinados.
 - `reports/`: Relatórios e visualizações gerados durante o projeto.
 
